@@ -1,0 +1,201 @@
+        -:    0:Source:unittest4.c
+        -:    0:Graph:unittest4.gcno
+        -:    0:Data:unittest4.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include "dominion.h"
+        -:    2:#include "dominion_helpers.h"
+        -:    3:#include "rngs.h"
+        -:    4:#include <string.h>
+        -:    5:#include <stdio.h>
+        -:    6:#include <stdlib.h>
+        -:    7:
+        -:    8:int totalTests = 28;
+        -:    9:int testsPassed = 0;
+        -:   10:
+function myAssert called 28 returned 100% blocks executed 80%
+       28:   11:void myAssert(int truth, char *test){
+       28:   12:    if (truth){
+branch  0 taken 28 (fallthrough)
+branch  1 taken 0
+       28:   13:        printf("TEST: %s Completed Successfully\n", test);
+call    0 returned 28
+       28:   14:        testsPassed++;
+        -:   15:    }
+        -:   16:    else{
+    #####:   17:        printf("TEST: %s Failed!!\n", test);
+call    0 never executed
+        -:   18:    }
+       28:   19:}
+        -:   20:
+        -:   21:
+        -:   22:
+        -:   23:
+function main called 1 returned 100% blocks executed 98%
+        1:   24:int main(){
+        -:   25:    int i;
+        -:   26:    int cost;
+        -:   27:
+        1:   28:    printf("\n-------------------TESTING getCost-------------------\n");
+call    0 returned 1
+        -:   29:
+       28:   30:	for (i = curse; i <= treasure_map; i++) {
+branch  0 taken 27
+branch  1 taken 1 (fallthrough)
+       27:   31:        cost = getCost(i);
+call    0 returned 27
+       27:   32:        if(i == curse)
+branch  0 taken 1 (fallthrough)
+branch  1 taken 26
+        1:   33:            myAssert(cost == 0, "Curse Costs 0");
+call    0 returned 1
+       27:   34:        if(i == estate)
+branch  0 taken 1 (fallthrough)
+branch  1 taken 26
+        1:   35:            myAssert(cost == 2, "Estate Costs 2");
+call    0 returned 1
+       27:   36:        if(i == duchy)
+branch  0 taken 1 (fallthrough)
+branch  1 taken 26
+        1:   37:            myAssert(cost == 5, "Duchy Costs 5");
+call    0 returned 1
+       27:   38:        if(i == province)
+branch  0 taken 1 (fallthrough)
+branch  1 taken 26
+        1:   39:            myAssert(cost == 8, "Province Costs 8");
+call    0 returned 1
+       27:   40:        if(i == copper)
+branch  0 taken 1 (fallthrough)
+branch  1 taken 26
+        1:   41:            myAssert(cost == 0, "Copper Costs 0");
+call    0 returned 1
+       27:   42:        if(i == silver)
+branch  0 taken 1 (fallthrough)
+branch  1 taken 26
+        1:   43:            myAssert(cost == 3, "Silver Costs 3");
+call    0 returned 1
+       27:   44:        if(i == gold)
+branch  0 taken 1 (fallthrough)
+branch  1 taken 26
+        1:   45:            myAssert(cost == 6, "Gold Costs 6");
+call    0 returned 1
+       27:   46:        if(i == adventurer)
+branch  0 taken 1 (fallthrough)
+branch  1 taken 26
+        1:   47:            myAssert(cost == 6, "Adventurer Costs 6");
+call    0 returned 1
+       27:   48:        if(i == council_room)
+branch  0 taken 1 (fallthrough)
+branch  1 taken 26
+        1:   49:            myAssert(cost == 5, "Council Room Costs 5");
+call    0 returned 1
+       27:   50:        if(i == feast)
+branch  0 taken 1 (fallthrough)
+branch  1 taken 26
+        1:   51:            myAssert(cost == 4, "Feast Costs 4");
+call    0 returned 1
+       27:   52:        if(i == gardens)
+branch  0 taken 1 (fallthrough)
+branch  1 taken 26
+        1:   53:            myAssert(cost == 4, "Gardens Costs 4");
+call    0 returned 1
+       27:   54:        if(i == mine)
+branch  0 taken 1 (fallthrough)
+branch  1 taken 26
+        1:   55:            myAssert(cost == 5, "Mine Costs 5");
+call    0 returned 1
+       27:   56:        if(i == remodel)
+branch  0 taken 1 (fallthrough)
+branch  1 taken 26
+        1:   57:            myAssert(cost == 4, "Remodel Costs 4");
+call    0 returned 1
+       27:   58:        if(i == smithy)
+branch  0 taken 1 (fallthrough)
+branch  1 taken 26
+        1:   59:            myAssert(cost == 4, "Smithy Costs 4");
+call    0 returned 1
+       27:   60:        if(i == village)
+branch  0 taken 1 (fallthrough)
+branch  1 taken 26
+        1:   61:            myAssert(cost == 3, "Village Costs 3");
+call    0 returned 1
+       27:   62:        if(i == baron)
+branch  0 taken 1 (fallthrough)
+branch  1 taken 26
+        1:   63:            myAssert(cost == 4, "Baron Costs 4");
+call    0 returned 1
+       27:   64:        if(i == great_hall)
+branch  0 taken 1 (fallthrough)
+branch  1 taken 26
+        1:   65:            myAssert(cost == 3, "Great Hall Costs 3");
+call    0 returned 1
+       27:   66:        if(i == minion)
+branch  0 taken 1 (fallthrough)
+branch  1 taken 26
+        1:   67:            myAssert(cost == 5, "Minion Costs 5");
+call    0 returned 1
+       27:   68:        if(i == steward)
+branch  0 taken 1 (fallthrough)
+branch  1 taken 26
+        1:   69:            myAssert(cost == 3, "Steward Costs 3");
+call    0 returned 1
+       27:   70:        if(i == tribute)
+branch  0 taken 1 (fallthrough)
+branch  1 taken 26
+        1:   71:            myAssert(cost == 5, "Tribute Costs 5");
+call    0 returned 1
+       27:   72:        if(i == ambassador)
+branch  0 taken 1 (fallthrough)
+branch  1 taken 26
+        1:   73:            myAssert(cost == 3, "Ambassador Costs 3");
+call    0 returned 1
+       27:   74:        if(i == cutpurse)
+branch  0 taken 1 (fallthrough)
+branch  1 taken 26
+        1:   75:            myAssert(cost == 4, "Cutpurse Costs 4");
+call    0 returned 1
+       27:   76:        if(i == embargo)
+branch  0 taken 1 (fallthrough)
+branch  1 taken 26
+        1:   77:            myAssert(cost == 2, "Embargo Costs 2");
+call    0 returned 1
+       27:   78:        if(i == outpost)
+branch  0 taken 1 (fallthrough)
+branch  1 taken 26
+        1:   79:            myAssert(cost == 5, "Outpost Costs 5");
+call    0 returned 1
+       27:   80:        if(i == salvager)
+branch  0 taken 1 (fallthrough)
+branch  1 taken 26
+        1:   81:            myAssert(cost == 4, "Salvager Costs 4");
+call    0 returned 1
+       27:   82:        if(i == sea_hag)
+branch  0 taken 1 (fallthrough)
+branch  1 taken 26
+        1:   83:            myAssert(cost == 4, "Sea Hag Costs 4");
+call    0 returned 1
+       27:   84:        if(i == treasure_map)
+branch  0 taken 1 (fallthrough)
+branch  1 taken 26
+        1:   85:            myAssert(cost == 4, "Treasure Map Costs 4");
+call    0 returned 1
+        -:   86:    }
+        -:   87:
+        -:   88:    //check return of wrong card
+        1:   89:    cost = getCost(30);
+call    0 returned 1
+        1:   90:    myAssert(cost == -1, "Test return of Invalid card");
+call    0 returned 1
+        -:   91:
+        1:   92:    if(totalTests == testsPassed){
+branch  0 taken 1 (fallthrough)
+branch  1 taken 0
+        1:   93:        printf("\n----------------------ALL TESTS PASSED----------------------\n");
+call    0 returned 1
+        -:   94:    }
+        -:   95:    else{
+    #####:   96:        printf("\n----------------------%d of %d TESTS PASSED----------------------\n", testsPassed, totalTests);
+call    0 never executed
+        -:   97:    }
+        1:   98:	return 0;
+        -:   99:}
