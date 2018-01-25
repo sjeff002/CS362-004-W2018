@@ -14,18 +14,16 @@ void myAssert(int truth, char *test){
         testsPassed++;
     }
     else{
-        printf("TEST: %s Faild!!\n", test);
+        printf("TEST: %s Failed!!\n", test);
     }
 }
 
 
 
 
-void main(){
-    int handpos = 0, choice1 = 0, choice2 = 0, choice3 = 0, bonus = 0;
+int main(){
     int seed = 1000;
     int numPlayers = 2;
-    int player, player2;
     struct gameState test1, test2, test3, preTest4, test4;
     int k[10] = {adventurer, embargo, village, minion, mine, cutpurse, 
         sea_hag, tribute, smithy, council_room};
@@ -34,13 +32,13 @@ void main(){
     
     printf("\n-------------------TESTING buyCard-------------------\n");
 
-    memcpy(&test1, &test2, sizeof(struct gameState));
+    memcpy(&test2, &test1, sizeof(struct gameState));
     
-    memcpy(&test1, &test3, sizeof(struct gameState));
+    memcpy(&test3, &test1, sizeof(struct gameState));
     
-    memcpy(&test1, &preTest4, sizeof(struct gameState));
+    memcpy(&preTest4, &test1, sizeof(struct gameState));
     
-    memcpy(&test1, &test4, sizeof(struct gameState));
+    memcpy(&test4, &test1, sizeof(struct gameState));
     
     test1.coins = 2;
     test2.coins = 3;
@@ -48,7 +46,7 @@ void main(){
     test3.supplyCount[village] = 0;
     test4.coins = 3;
     preTest4.coins = 3;
-    returns;
+    int returns;
     
     //ensures buyCard doesnt allow purchase without proper coin amount.
     myAssert((returns = buyCard(village, &test1)) == -1, "Fails to buy a card if not enough coins");
@@ -74,6 +72,8 @@ void main(){
     else{
         printf("\n----------------------%d of %d TESTS PASSED----------------------\n", testsPassed, totalTests);
     }
+
+	return 0;
 
 }
 

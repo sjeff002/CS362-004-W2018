@@ -14,7 +14,7 @@ void myAssert(int truth, char *test){
         testsPassed++;
     }
     else{
-        printf("TEST: %s Faild!!\n", test);
+        printf("TEST: %s Failed!!\n", test);
     }
 }
 
@@ -23,7 +23,7 @@ int main(){
     int handpos = 0, choice1 = 0, choice2 = 0, choice3 = 0, bonus = 0;
     int seed = 1000;
     int numPlayers = 2;
-    int player, player2;
+    int player =0, player2;
     struct gameState preState, testState;
     int k[10] = {adventurer, embargo, village, minion, mine, cutpurse, 
         sea_hag, tribute, smithy, council_room};
@@ -33,11 +33,11 @@ int main(){
     printf("\n----------------------TESTING CARD council_room----------------------\n");
     
     preState.hand[player][0] = council_room;
-    memcpy(&preState, &testState, sizeof(struct gameState));
+    memcpy(&testState, &preState, sizeof(struct gameState));
     
     
     cardEffect(council_room, choice1, choice2, choice3, &testState, handpos, &bonus);
-    player = whoseTurn(testState)
+	player = whoseTurn(&testState);
     
     //Should gain 4 cards, but lose 1 when smithy is discarded for a gain of 3.
     myAssert(preState.handCount[player] +3 == testState.handCount[player], "Net gain of +3 cards");
@@ -46,10 +46,10 @@ int main(){
     myAssert(preState.deckCount[player] -4 == testState.deckCount[player], "Cards came from players hand");
     
     // insure a card was played/discarded
-    myAssert(preState.playedCardCount[player] +1 == testState.playedCardCount[player], "council_room was discarded");
+    myAssert(preState.playedCardCount +1 == testState.playedCardCount, "council_room was discarded");
     
     //insure the council_room card was played
-    myAssert(testState.playedCards[testState.playedCardcount -1] == council_room, "council_room card was played");
+    myAssert(testState.playedCards[testState.playedCardCount -1] == council_room, "council_room card was played");
     
     //ensure provice VC hasn't changed
     myAssert(preState.supplyCount[province] == testState.supplyCount[province], "No change in province cards");
@@ -64,7 +64,7 @@ int main(){
     myAssert(preState.supplyCount[estate] == testState.supplyCount[estate], "No change in estate cards");
     
     //ensure it is still the current players turn
-    myAssert(whoseTurn(testState) == whoseTurn(preState), "Turn has not changed");
+    myAssert(whoseTurn(&testState) == whoseTurn(&preState), "Turn has not changed");
     
     if(player){
         player2 = 0;
@@ -77,7 +77,7 @@ int main(){
     myAssert(preState.handCount[player2] +1 == testState.handCount[player2], "Other players hand count increases by 1");
     
     //insures card came from the other players hand
-    myAssert(preState.deckCount[player] -1 == testState.deckCount[player], "Card came from other players hand");
+    myAssert(preState.deckCount[player2] -1 == testState.deckCount[player2], "Card came from other players hand");
     
     if(totalTests == testsPassed){
         printf("\n----------------------ALL TESTS PASSED----------------------\n");
@@ -85,4 +85,6 @@ int main(){
     else{
         printf("\n----------------------%d of %d TESTS PASSED----------------------\n", testsPassed, totalTests);
     }
+
+	return 0;
 }

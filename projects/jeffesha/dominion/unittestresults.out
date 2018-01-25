@@ -1,0 +1,167 @@
+
+-------------------TESTING Card: adventurer-------------------
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+
+-------------------4 of 6 TESTS PASSED-------------------
+File 'dominion.c'
+Lines executed:37.99% of 558
+Branches executed:38.61% of 417
+Taken at least once:29.26% of 417
+Calls executed:26.32% of 95
+Creating 'dominion.c.gcov'
+
+
+----------------------TESTING CARD smithy----------------------
+TEST: Net gain of +2 cards Failed!!
+TEST: Cards came from players hand Failed!!
+TEST: smithy was discarded Completed Successfully
+TEST: council_room card was played Completed Successfully
+TEST: No change in province cards Completed Successfully
+TEST: No change in duchy cards Completed Successfully
+TEST: No change in estate cards Completed Successfully
+TEST: Turn has not changed Completed Successfully
+TEST: Other players hand count is the same Completed Successfully
+
+----------------------7 of 9 TESTS PASSED----------------------
+File 'dominion.c'
+Lines executed:37.99% of 558
+Branches executed:38.61% of 417
+Taken at least once:29.26% of 417
+Calls executed:26.32% of 95
+Creating 'dominion.c.gcov'
+
+
+----------------------TESTING CARD village----------------------
+TEST: Net gain of +0 cards Completed Successfully
+TEST: Cards came from players hand Completed Successfully
+TEST: Actions increase by 2 Failed!!
+TEST: village was discarded Completed Successfully
+TEST: village card was played Completed Successfully
+TEST: No change in province cards Completed Successfully
+TEST: No change in duchy cards Completed Successfully
+TEST: No change in estate cards Completed Successfully
+TEST: Turn has not changed Completed Successfully
+TEST: Other players hand count is the same Completed Successfully
+
+----------------------9 of 10 TESTS PASSED----------------------
+File 'dominion.c'
+Lines executed:37.99% of 558
+Branches executed:38.61% of 417
+Taken at least once:29.26% of 417
+Calls executed:26.32% of 95
+Creating 'dominion.c.gcov'
+
+
+----------------------TESTING CARD council_room----------------------
+TEST: Net gain of +3 cards Completed Successfully
+TEST: Cards came from players hand Completed Successfully
+TEST: council_room was discarded Completed Successfully
+TEST: council_room card was played Completed Successfully
+TEST: No change in province cards Completed Successfully
+TEST: Buys increased by 1 Completed Successfully
+TEST: No change in duchy cards Completed Successfully
+TEST: No change in estate cards Completed Successfully
+TEST: Turn has not changed Completed Successfully
+TEST: Other players hand count increases by 1 Completed Successfully
+TEST: Card came from other players hand Completed Successfully
+
+----------------------ALL TESTS PASSED----------------------
+File 'dominion.c'
+Lines executed:37.99% of 558
+Branches executed:38.61% of 417
+Taken at least once:29.26% of 417
+Calls executed:26.32% of 95
+Creating 'dominion.c.gcov'
+
+
+-------------------TESTING buyCard-------------------
+TEST: Fails to buy a card if not enough coins Completed Successfully
+TEST: Fails to buy if no buys remaining Completed Successfully
+TEST: Fails to buy if there are no more of the card Completed Successfully
+TEST: Buys card successfully Completed Successfully
+TEST: The buy has been used Completed Successfully
+TEST: The coins are removed from play Completed Successfully
+
+----------------------ALL TESTS PASSED----------------------
+File 'dominion.c'
+Lines executed:37.99% of 558
+Branches executed:38.61% of 417
+Taken at least once:29.26% of 417
+Calls executed:26.32% of 95
+Creating 'dominion.c.gcov'
+
+
+-------------------TESTING updateCoins-------------------
+TEST: There are no coins in hand Completed Successfully
+TEST: There are 5 coins in hand Completed Successfully
+TEST: There are 10 coins in hand Completed Successfully
+TEST: There are 15 coins in hand Completed Successfully
+TEST: There are 9 coins in hand Completed Successfully
+TEST: There are 9 coins and 12 bonus for a total of 21 coins Completed Successfully
+
+----------------------ALL TESTS PASSED----------------------
+File 'dominion.c'
+Lines executed:37.99% of 558
+Branches executed:38.61% of 417
+Taken at least once:29.26% of 417
+Calls executed:26.32% of 95
+Creating 'dominion.c.gcov'
+
+
+-------------------TESTING isGameOver-------------------
+TEST: The game is not over Completed Successfully
+TEST: Province pile empty, game is over Completed Successfully
+TEST: 3 supply piles are empty, game is over Completed Successfully
+
+----------------------ALL TESTS PASSED----------------------
+File 'dominion.c'
+Lines executed:37.99% of 558
+Branches executed:38.61% of 417
+Taken at least once:29.26% of 417
+Calls executed:26.32% of 95
+Creating 'dominion.c.gcov'
+
+
+-------------------TESTING getCost-------------------
+TEST: Curse Costs 0 Completed Successfully
+TEST: Estate Costs 2 Completed Successfully
+TEST: Duchy Costs 5 Completed Successfully
+TEST: Province Costs 8 Completed Successfully
+TEST: Copper Costs 0 Completed Successfully
+TEST: Silver Costs 3 Completed Successfully
+TEST: Gold Costs 6 Completed Successfully
+TEST: Adventurer Costs 6 Completed Successfully
+TEST: Council Room Costs 5 Completed Successfully
+TEST: Feast Costs 4 Completed Successfully
+TEST: Gardens Costs 4 Completed Successfully
+TEST: Mine Costs 5 Completed Successfully
+TEST: Remodel Costs 4 Completed Successfully
+TEST: Smithy Costs 4 Completed Successfully
+TEST: Village Costs 3 Completed Successfully
+TEST: Baron Costs 4 Completed Successfully
+TEST: Great Hall Costs 3 Completed Successfully
+TEST: Minion Costs 5 Completed Successfully
+TEST: Steward Costs 3 Completed Successfully
+TEST: Tribute Costs 5 Completed Successfully
+TEST: Ambassador Costs 3 Completed Successfully
+TEST: Cutpurse Costs 4 Completed Successfully
+TEST: Embargo Costs 2 Completed Successfully
+TEST: Outpost Costs 5 Completed Successfully
+TEST: Salvager Costs 4 Completed Successfully
+TEST: Sea Hag Costs 4 Completed Successfully
+TEST: Treasure Map Costs 4 Completed Successfully
+TEST: Test return of Invalid card Completed Successfully
+
+----------------------ALL TESTS PASSED----------------------
+File 'dominion.c'
+Lines executed:37.99% of 558
+Branches executed:38.61% of 417
+Taken at least once:29.26% of 417
+Calls executed:26.32% of 95
+Creating 'dominion.c.gcov'
+

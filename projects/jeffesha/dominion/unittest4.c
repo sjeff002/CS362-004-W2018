@@ -14,20 +14,20 @@ void myAssert(int truth, char *test){
         testsPassed++;
     }
     else{
-        printf("TEST: %s Faild!!\n", test);
+        printf("TEST: %s Failed!!\n", test);
     }
 }
 
 
 
 
-void main(){
+int main(){
     int i;
     int cost;
 
     printf("\n-------------------TESTING getCost-------------------\n");
 
-    for(i = curse; i <= treasure_map, i++){
+	for (i = curse; i <= treasure_map; i++) {
         cost = getCost(i);
         if(i == curse)
             myAssert(cost == 0, "Curse Costs 0");
@@ -72,7 +72,7 @@ void main(){
         if(i == ambassador)
             myAssert(cost == 3, "Ambassador Costs 3");
         if(i == cutpurse)
-            myAssert(cost == 3, "Cutpurse Costs 3");
+            myAssert(cost == 4, "Cutpurse Costs 4");
         if(i == embargo)
             myAssert(cost == 2, "Embargo Costs 2");
         if(i == outpost)
@@ -81,7 +81,7 @@ void main(){
             myAssert(cost == 4, "Salvager Costs 4");
         if(i == sea_hag)
             myAssert(cost == 4, "Sea Hag Costs 4");
-        if(i == teasure_map)
+        if(i == treasure_map)
             myAssert(cost == 4, "Treasure Map Costs 4");
     }
 
@@ -95,5 +95,5 @@ void main(){
     else{
         printf("\n----------------------%d of %d TESTS PASSED----------------------\n", testsPassed, totalTests);
     }
-
+	return 0;
 }

@@ -14,19 +14,17 @@ void myAssert(int truth, char *test){
         testsPassed++;
     }
     else{
-        printf("TEST: %s Faild!!\n", test);
+        printf("TEST: %s Failed!!\n", test);
     }
 }
 
 
 
 
-void main(){
-    int i, over;
-    int bonus = 12;
+int main(){
+    int over;
     int seed = 1000;
     int numPlayers = 2;
-    int player;
     struct gameState state, test;
     int k[10] = {adventurer, embargo, village, minion, mine, cutpurse, 
         sea_hag, tribute, smithy, council_room};
@@ -35,7 +33,7 @@ void main(){
     
     printf("\n-------------------TESTING isGameOver-------------------\n");
 
-    memcpy(&state, &test, sizeof(struct gameState));
+    memcpy(&test, &state, sizeof(struct gameState));
 
     over = isGameOver(&test);
     //game is not over. Province and supply piles are full
@@ -63,5 +61,5 @@ void main(){
     else{
         printf("\n----------------------%d of %d TESTS PASSED----------------------\n", testsPassed, totalTests);
     }
-
+	return 0;
 }

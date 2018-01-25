@@ -22,7 +22,7 @@ void myAssert(int truth, char *test){
 
 
 int main(){
-    int i, count;
+	int i;
     int bonus = 12;
     int seed = 1000;
     int numPlayers = 2;
@@ -39,42 +39,42 @@ int main(){
 
 
     //test with no treasure in hand.
+	test.handCount[player] = 5;
     for(i=0; i < 5; i++){
         test.hand[player][i] = smithy;
-		test.handCount[player]++;
     }
-    count = updateCoins(player, &test, 0);
-    myAssert(count == 0, "There are no coins in hand");
+	updateCoins(player, &test, 0);
+    myAssert(test.coins == 0, "There are no coins in hand");
 
     //revert to default memory
     memcpy(&test, &state, sizeof(struct gameState));
     //test with all copper
+	test.handCount[player] = 5;
 	for (i = 0; i < 5; i++) {
         test.hand[player][i] = copper;
-		test.handCount[player]++;
     }
-    count = updateCoins(player, &test, 0);
-    myAssert(count == 5, "There are 5 coins in hand");
+    updateCoins(player, &test, 0);
+    myAssert(test.coins == 5, "There are 5 coins in hand");
 
     //revert to default memory
     memcpy(&test, &state, sizeof(struct gameState));
     //test with all silver
+	test.handCount[player] = 5;
 	for (i = 0; i < 5; i++) {
         test.hand[player][i] = silver;
-		test.handCount[player]++;
     }
-    count = updateCoins(player, &test, 0);
-    myAssert(count == 10, "There are 10 coins in hand");
+    updateCoins(player, &test, 0);
+    myAssert(test.coins == 10, "There are 10 coins in hand");
 
     //revert to default memory
     memcpy(&test, &state, sizeof(struct gameState));
     //test with all gold
+	test.handCount[player] = 5;
 	for (i = 0; i < 5; i++) {
         test.hand[player][i] = gold;
-		test.handCount[player]++;
     }
-    count = updateCoins(player, &test, 0);
-    myAssert(count == 15, "There are 15 coins in hand");
+    updateCoins(player, &test, 0);
+    myAssert(test.coins == 15, "There are 15 coins in hand");
 
     //revert to default memory
     memcpy(&test, &state, sizeof(struct gameState));
@@ -85,8 +85,8 @@ int main(){
     test.hand[player][2] = gold;
     test.hand[player][3] = silver;
     test.hand[player][4] = copper;
-	count = updateCoins(player, &test, 0);
-    myAssert(count == 9, "There are 9 coins in hand");
+	updateCoins(player, &test, 0);
+    myAssert(test.coins == 9, "There are 9 coins in hand");
 
     //revert to default memory
     memcpy(&test, &state, sizeof(struct gameState));
@@ -97,8 +97,8 @@ int main(){
     test.hand[player][2] = gold;
     test.hand[player][3] = silver;
     test.hand[player][4] = copper;
-	count = updateCoins(player, &test, bonus);
-    myAssert(count == 21, "There are 9 coins and 12 bonus for a total of 21 coins");
+	updateCoins(player, &test, bonus);
+    myAssert(test.coins == 21, "There are 9 coins and 12 bonus for a total of 21 coins");
 
     if(totalTests == testsPassed){
         printf("\n----------------------ALL TESTS PASSED----------------------\n");

@@ -39,7 +39,7 @@ int main() {
 	printf("\n----------------------TESTING CARD village----------------------\n");
 
 	preState.hand[player][0] = village;
-	memcpy(&preState, &testState, sizeof(struct gameState));
+	memcpy(&testState, &preState, sizeof(struct gameState));
 
 	cardEffect(village, choice1, choice2, choice3, &testState, handpos, &bonus);
 	player = whoseTurn(&testState);

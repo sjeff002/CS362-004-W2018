@@ -11,7 +11,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int totalTests = 8;
+int totalTests = 9;
 int testsPassed = 0;
 
 void myAssert(int truth, char *test){
@@ -39,7 +39,7 @@ int main(){
     printf("\n----------------------TESTING CARD smithy----------------------\n");
     
     preState.hand[player][0] = smithy;
-    memcpy(&preState, &testState, sizeof(struct gameState));
+    memcpy(&testState, &preState, sizeof(struct gameState));
     
     
     cardEffect(smithy, choice1, choice2, choice3, &testState, handpos, &bonus);
@@ -49,10 +49,13 @@ int main(){
     myAssert(preState.handCount[player] +2 == testState.handCount[player], "Net gain of +2 cards");
     
     //insures cards come from the players hand
-    myAssert(preState.deckCount[player] > testState.deckCount[player], "Cards came from players hand");
+    myAssert(preState.deckCount[player] -3 ==  testState.deckCount[player], "Cards came from players hand");
     
     // insure a card was played/discarded
     myAssert(preState.playedCardCount +1 == testState.playedCardCount, "smithy was discarded");
+
+	//insure the smithy card was played
+	myAssert(testState.playedCards[testState.playedCardCount - 1] == smithy, "council_room card was played");
     
     //ensure provice VC hasn't changed
     myAssert(preState.supplyCount[province] == testState.supplyCount[province], "No change in province cards");
