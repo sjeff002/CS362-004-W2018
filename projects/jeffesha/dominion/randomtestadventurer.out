@@ -1,0 +1,2620 @@
+
+-------------------TESTING Card: adventurer-------------------
+Test iteration 1
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 2
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 3
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 4
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 5
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 6
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 7
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 8
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 9
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 10
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 11
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 12
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 13
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 14
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 15
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 16
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 17
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Failed.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 18
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Failed.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 19
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 20
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Failed.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 21
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 22
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 23
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 24
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 25
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 26
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 27
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 28
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 29
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 30
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 31
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 32
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 33
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 34
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 35
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 36
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Failed.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 37
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 38
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 39
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 40
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 41
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 42
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 43
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 44
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 45
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 46
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 47
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 48
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Failed.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 49
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 50
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Failed.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 51
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Failed.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 52
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 53
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 54
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 55
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 56
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 57
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 58
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 59
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 60
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 61
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Failed.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 62
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 63
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 64
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 65
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 66
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 67
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 68
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 69
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 70
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 71
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 72
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 73
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 74
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 75
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 76
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 77
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 78
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 79
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 80
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 81
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 82
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 83
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Failed.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 84
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 85
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 86
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 87
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 88
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 89
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 90
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 91
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 92
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 93
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 94
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 95
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 96
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 97
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 98
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 99
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 100
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 101
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 102
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 103
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 104
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 105
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 106
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 107
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 108
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 109
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 110
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 111
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 112
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 113
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Failed.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 114
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Failed.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 115
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 116
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 117
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 118
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 119
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 120
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 121
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 122
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 123
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 124
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 125
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 126
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 127
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 128
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 129
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 130
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 131
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 132
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 133
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 134
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 135
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 136
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 137
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Failed.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 138
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 139
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 140
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 141
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 142
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 143
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 144
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 145
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 146
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 147
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 148
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 149
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 150
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 151
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 152
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 153
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 154
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 155
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 156
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 157
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 158
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 159
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 160
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 161
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 162
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 163
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 164
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 165
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Failed.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 166
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 167
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 168
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 169
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 170
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 171
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 172
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 173
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 174
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 175
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 176
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 177
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 178
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 179
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 180
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 181
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 182
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 183
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 184
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 185
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 186
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 187
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 188
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 189
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 190
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 191
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 192
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 193
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 194
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 195
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 196
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 197
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 198
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 199
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Test iteration 200
+TEST: Cards came from players deck Completed Successfully.
+TEST: Hand count increased by 1 Completed Successfully.
+TEST: Treasure count increased by 2 Failed.
+TEST: Non-Tresure's were discarded Completed Successfully.
+TEST: Second player hand did not change. Completed Successfully.
+TEST: Turn did not change Completed Successfully.
+TEST: Played cards increased by 1 Failed.
+TEST: No change in province cards Completed Successfully.
+TEST: No change in duchy cards Completed Successfully.
+TEST: No change in estate cards Completed Successfully.
+
+
+Cards came from players deck passed 200 of 200 times
+Hand count increased by 1 passed 200 of 200 times
+Treasure count increased by 2 passed 0 of 200 times
+Second player hand did not change passed 200 of 200 times
+Turn did not change passed 200 of 200 times
+Played cards increased by 1 passed 0 of 200 times
+adventurer card was played passed 0 of 0 times
+No change in province cards passed 200 of 200 times
+No change in duchy cards passed 200 of 200 times
+No change in estate cards passed 200 of 200 times
+
+File 'randomtestadventurer.c'
+Lines executed:97.73% of 88
+Creating 'randomtestadventurer.c.gcov'
+
+File 'dominion.c'
+Lines executed:21.86% of 558
+Creating 'dominion.c.gcov'
+

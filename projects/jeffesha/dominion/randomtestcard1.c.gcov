@@ -1,0 +1,143 @@
+        -:    0:Source:randomtestcard1.c
+        -:    0:Graph:randomtestcard1.gcno
+        -:    0:Data:randomtestcard1.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:/***************************************************************
+        -:    2:*Author: Shannon Jeffers
+        -:    3:*Class: CS362
+        -:    4:*Assignment 4
+        -:    5:*File: randomtestcard1.c
+        -:    6:****************************************************************/
+        -:    7:#include "dominion.h"
+        -:    8:#include "dominion_helpers.h"
+        -:    9:#include "rngs.h"
+        -:   10:#include <string.h>
+        -:   11:#include <stdio.h>
+        -:   12:#include <stdlib.h>
+        -:   13:#include <time.h>
+        -:   14:
+        -:   15:int sameDeck = 0, sameDeckTotal = 0;
+        -:   16:int cardsDrawn = 0, cardsDrawnTotal = 0;
+        -:   17:int oneHand = 0, oneHandTotal = 0;
+        -:   18:int turn = 0, turnTotal = 0;
+        -:   19:int cardCount = 0, cardCountTotal = 0;
+        -:   20:int cardPlayed = 0, cardPlayedTotal = 0;
+        -:   21:int provenceC = 0, provenceCTotal = 0;
+        -:   22:int duchyC = 0, duchyCTotal = 0;
+        -:   23:int estateC = 0, estateCTotal = 0;
+        -:   24:
+     1800:   25:void myAssert(int truth, char *test, int *testVar, int *testTotal){
+     1800:   26:	*testTotal += 1;
+     1800:   27:	if (truth) {
+     1400:   28:		printf("TEST: %s Completed Successfully.\n", test);
+     1400:   29:		*testVar += 1;
+        -:   30:	}
+        -:   31:	else
+      400:   32:		printf("TEST: %s Failed.\n", test);
+     1800:   33:}
+        -:   34:
+     2733:   35:int checkCards(int k[10], int card){
+        -:   36:	int i;
+    24481:   37:	for(i = 0; i < 10; i++){
+    22681:   38:		if(k[i] == card)
+      933:   39:			return 1;
+        -:   40:	}
+     1800:   41:	return 0;
+        -:   42:}
+        -:   43:
+        1:   44:int main(){
+        1:   45:    srand(time(NULL));
+        -:   46:    
+        -:   47:    int i,z;
+        1:   48:    int handpos = 0, choice1 = 0, choice2 = 0, choice3 = 0, bonus = 0;
+        -:   49:    int seed;
+        -:   50:    int temp;
+        -:   51:    int numPlayers;
+        1:   52:    int player = 0, player2;
+        -:   53:    struct gameState preState, testState;
+        -:   54:    int k[10];
+        -:   55:    
+        -:   56:    
+        1:   57:    printf("\n----------------------TESTING CARD smithy----------------------\n");
+      201:   58:    for(i = 0; i < 200; i++){
+      200:   59:        printf("Test iteration %d\n", i+1);
+        -:   60:		
+      200:   61:		numPlayers = rand() % 3 + 2; //need 2-4 players
+      200:   62:		player = rand() % numPlayers;
+      200:   63:		seed = rand();
+        -:   64:		//set up the game
+      200:   65:		z=0;
+     3133:   66:		while(z != 9){
+     2733:   67:			temp = rand() % treasure_map + adventurer;
+     2733:   68:			if(!checkCards(k, temp)){
+     1800:   69:				k[z] = temp;
+     1800:   70:				z++;
+        -:   71:			}
+        -:   72:		}
+        -:   73:		
+      200:   74:		initializeGame(numPlayers, k, seed, &preState);
+        -:   75:		
+      200:   76:		preState.handCount[player] = rand() % MAX_HAND-1;
+      200:   77:		preState.discardCount[player] = rand() % MAX_DECK-1;
+      200:   78:		preState.deckCount[player] = rand() % MAX_DECK-1;
+      200:   79:		if (preState.handCount[player])
+      200:   80:			handpos = rand() % preState.handCount[player];
+        -:   81:		else
+    #####:   82:			handpos = 0;
+      200:   83:		preState.whoseTurn = player;
+        -:   84:        
+      200:   85:        preState.hand[player][handpos] = smithy;
+      200:   86:        memcpy(&testState, &preState, sizeof(struct gameState));
+        -:   87:        
+        -:   88:        
+      200:   89:        cardEffect(smithy, choice1, choice2, choice3, &testState, handpos, &bonus);
+        -:   90:        
+        -:   91:    
+        -:   92:        //Should gain 3 cards, but lose 1 when smithy is discarded for a gain of 2.
+      200:   93:        myAssert(preState.handCount[player] +2 == testState.handCount[player], "Net gain of +2 cards", &cardsDrawn, &cardsDrawnTotal);
+        -:   94:        
+        -:   95:        //insures cards come from the players hand
+      200:   96:        myAssert(preState.deckCount[player] -3 ==  testState.deckCount[player], "Cards came from players hand", &sameDeck, &sameDeckTotal);
+        -:   97:        
+        -:   98:        // insure a card was played/discarded
+      200:   99:        myAssert(preState.playedCardCount +1 == testState.playedCardCount, "smithy was discarded", &cardCount, &cardCountTotal);
+        -:  100:
+        -:  101:    	//insure the smithy card was played
+      200:  102:    	myAssert(testState.playedCards[testState.playedCardCount - 1] == smithy, "council_room card was played", &cardPlayed, &cardPlayedTotal);
+        -:  103:        
+        -:  104:        //ensure provice VC hasn't changed
+      200:  105:        myAssert(preState.supplyCount[province] == testState.supplyCount[province], "No change in province cards", &provenceC, &provenceCTotal);
+        -:  106:        
+        -:  107:        //ensure duchy VC hasn't change
+      200:  108:        myAssert(preState.supplyCount[duchy] == testState.supplyCount[duchy], "No change in duchy cards", &duchyC, &duchyCTotal);
+        -:  109:    
+        -:  110:        //ensure estate VC hasn't changed
+      200:  111:        myAssert(preState.supplyCount[estate] == testState.supplyCount[estate], "No change in estate cards", &estateC, &estateCTotal);
+        -:  112:        
+        -:  113:        //ensure it is still the current players turn
+      200:  114:        myAssert(whoseTurn(&testState) == whoseTurn(&preState), "Turn has not changed", &turn, &turnTotal);
+        -:  115:        
+      200:  116:		if(player != numPlayers-1){
+      118:  117:			player2 = player + 1;
+        -:  118:		}
+        -:  119:		else{
+       82:  120:			player2 = 0;
+        -:  121:		}
+        -:  122:    
+        -:  123:        //make sure there is no change to the other player hand
+      200:  124:        myAssert(preState.handCount[player2] == testState.handCount[player2], "Other players hand count is the same", &oneHand, &oneHandTotal);
+      200:  125:        printf("\n\n");
+        -:  126:
+        -:  127:    }
+        1:  128:    printf("Cards came from players deck passed %d of %d times\n", sameDeck, sameDeckTotal);
+        1:  129:	printf("Hand count increased by 2 passed %d of %d times\n", cardsDrawn, cardsDrawnTotal);
+        1:  130:	printf("Second player hand did not change passed %d of %d times\n", oneHand, oneHandTotal);
+        1:  131:	printf("Turn did not change passed %d of %d times\n", turn, turnTotal);
+        1:  132:	printf("Played cards increased by 1 passed %d of %d times\n", cardCount, cardCountTotal);
+        1:  133:	printf("smithy card was played passed %d of %d times\n", cardPlayed, cardPlayedTotal);
+        1:  134:	printf("No change in province cards passed %d of %d times\n", provenceC, provenceCTotal);
+        1:  135:	printf("No change in duchy cards passed %d of %d times\n", duchyC, duchyCTotal);
+        1:  136:	printf("No change in estate cards passed %d of %d times\n\n", estateC, estateCTotal);
+        1:  137:	return 0;
+        -:  138:}
