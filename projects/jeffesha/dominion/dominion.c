@@ -705,7 +705,7 @@ int remodel_c(int currentPlayer, int choice1, int choice2, int handPos, struct g
 int smithy_c(int currentPlayer, int handPos, struct gameState *state) {
 	int i;
 	//changed target value from 3 to 2 to impliment bug
-	for (i = 0; i < 2; i++)
+	for (i = 0; i < 3; i++)
 	{
 		drawCard(currentPlayer, state);
 	}

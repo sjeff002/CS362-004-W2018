@@ -1,0 +1,21 @@
+Upon running the adventurerFunc function with the cardtest unit test it didn’t look like there was too much wrong with the function. Obviously, there were a couple bugs because the hand count failed to increase by exactly one and the played cards failed to increase. These bugs were the same preexisting bugs that would found when running my version of the code. This made it incorrectly seem like there was no bug implemented (aside from the preexisting ones) in the adventurerFunc. This prompted me to run the randomtestadventurer function to see what it could find. This resulted in an almost instant segmentation fault. It is a very tricky bug. Shane simply changed which card is looked at when checking which card was drawn. This caused the discarded cards to very quickly become critically wrong if the 2nd to the top card in the deck was not a treasure card. Here is where the bug can be found: 
+cardDrawn = state->hand[currentPlayer][state->handCount[currentPlayer]-2];
+In this line of code the -2 at the end should actually be a -1 causing the program to check the top card in the hand rather than the second to top card. The second to top card could have been any pre-existing card or an already drawn treasure which could really mess up the flow of the rest of the function. It didn’t cause an issue in the unit test because the unit test was set up with just a normal beginning game game state which caused the only cards in the deck to be treasure cards, therefor no card got wrongfully discarded. 
+
+The next bug was found because the net gain of +2 cards test failed. The game state was set up like a basic beginning of the game game state and cardEffect was called causing a change in the game state. The pre-cardEffect game state and the post-carfEffect game state were then compared to ensure that all the expected changes to the game state were made. The test concluded that the amount of cards drawn was not correct. Upon looking at Shane’s code it came to light that the cause of this bug is the for loop that controls the number of cards drawn.  Here is a comparison of the for loop before the bug was implemented and after the bug was implemented:
+
+for (i = 0; i < 3; i++)
+        {
+          drawCard(currentPlayer, state);
+        }
+for (i = 0; i < 4; i++)//changed to i<4 so now 4 cards will be drawn instead of 3 cards
+        {
+          drawCard(currentPlayer, state);
+        }
+This bug could very easily be missed if careful attention isn’t paid to the deck counts and the bug could very easily have come about from a simple typo. 
+
+A third bug was found within the villageFunc, or the function that was controlling the village card. The game state was set up to be a standard beginning of the game game state. The cardEffect function was then called which changed the game state that was passed into it. The pre-cardEffect game state was then compared to the post-cardEffect game state to make sure the expected changes were the ones that were made.  The test that tested for net card gain also failed for this function. The function expected that there be a net card gain of 0 because the card causes a player to draw a card but then the card itself is also discarded. Upon looking at Shane’s function it was clear to see that a line of code was duplicated, which lead to this bug: 
+drawCard(currentPlayer, state);
+drawCard(currentPlayer, state); //BUG: extra drawCard, could happen if a dev uses copy paste twice on accident
+
+As the bug comments mentioned, if the dev was using copy and past this could be a bug that got implemented, but I view this bug as being quite a bit more unlikely than the case with the for loop. This bug may also be a big easier to spot because it is a whole line of duplicated code rather than just one number that was a little off. 
